@@ -4,11 +4,14 @@
 @tailwind components;
 @tailwind utilities;
 
-
-
 :root{
+  @apply font-vp;
   background-image: url("./bg-image.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
+}
+
+input:focus::placeholder {
+  color: #CDD5E0;
 }
