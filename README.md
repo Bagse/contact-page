@@ -1,4 +1,6 @@
-# React + Vite
+![image](https://github.com/Bagse/contact-page/assets/102260190/16b2d03a-d65f-43d2-a6d8-3b841217eda9)
+
+# Contact Page
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
